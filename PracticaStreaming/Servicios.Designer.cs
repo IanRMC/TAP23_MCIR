@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.cboServicio = new System.Windows.Forms.ComboBox();
             this.label1 = new System.Windows.Forms.Label();
             this.rb1Mes = new System.Windows.Forms.RadioButton();
@@ -37,6 +38,7 @@
             this.rb12Mes = new System.Windows.Forms.RadioButton();
             this.cbxImpuestos = new System.Windows.Forms.CheckBox();
             this.btnCalcular = new System.Windows.Forms.Button();
+            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.SuspendLayout();
             // 
             // cboServicio
@@ -53,6 +55,7 @@
             this.cboServicio.Name = "cboServicio";
             this.cboServicio.Size = new System.Drawing.Size(121, 21);
             this.cboServicio.TabIndex = 0;
+            this.cboServicio.SelectedIndexChanged += new System.EventHandler(this.cboServicio_SelectedIndexChanged);
             // 
             // label1
             // 
@@ -138,6 +141,10 @@
             this.btnCalcular.UseVisualStyleBackColor = true;
             this.btnCalcular.Click += new System.EventHandler(this.btnCalcular_Click);
             // 
+            // toolTip1
+            // 
+            this.toolTip1.Popup += new System.Windows.Forms.PopupEventHandler(this.toolTip1_Popup);
+            // 
             // Servicios
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -171,6 +178,7 @@
         private System.Windows.Forms.RadioButton rb12Mes;
         private System.Windows.Forms.CheckBox cbxImpuestos;
         private System.Windows.Forms.Button btnCalcular;
+        private System.Windows.Forms.ToolTip toolTip1;
     }
 }
 
