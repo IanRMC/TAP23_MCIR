@@ -1,0 +1,11 @@
+C:\Users\Redia\Documents\VS_codigos\PracticaStreaming\PracticaStreaming\bin\Debug\PracticaStreaming.exe.config
+C:\Users\Redia\Documents\VS_codigos\PracticaStreaming\PracticaStreaming\bin\Debug\PracticaStreaming.exe
+C:\Users\Redia\Documents\VS_codigos\PracticaStreaming\PracticaStreaming\bin\Debug\PracticaStreaming.pdb
+C:\Users\Redia\Documents\VS_codigos\PracticaStreaming\PracticaStreaming\obj\Debug\PracticaStreaming.csproj.AssemblyReference.cache
+C:\Users\Redia\Documents\VS_codigos\PracticaStreaming\PracticaStreaming\obj\Debug\PracticaStreaming.csproj.SuggestedBindingRedirects.cache
+C:\Users\Redia\Documents\VS_codigos\PracticaStreaming\PracticaStreaming\obj\Debug\PracticaStreaming.Servicios.resources
+C:\Users\Redia\Documents\VS_codigos\PracticaStreaming\PracticaStreaming\obj\Debug\PracticaStreaming.Properties.Resources.resources
+C:\Users\Redia\Documents\VS_codigos\PracticaStreaming\PracticaStreaming\obj\Debug\PracticaStreaming.csproj.GenerateResource.cache
+C:\Users\Redia\Documents\VS_codigos\PracticaStreaming\PracticaStreaming\obj\Debug\PracticaStreaming.csproj.CoreCompileInputs.cache
+C:\Users\Redia\Documents\VS_codigos\PracticaStreaming\PracticaStreaming\obj\Debug\PracticaStreaming.exe
+C:\Users\Redia\Documents\VS_codigos\PracticaStreaming\PracticaStreaming\obj\Debug\PracticaStreaming.pdb
