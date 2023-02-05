@@ -44,7 +44,7 @@ namespace PracticaStreaming
             {
                 if (cbxImpuestos.Checked)
                 {
-                    total *= 1.6;
+                    total *= 1.16;
                     MessageBox.Show("El total a pagar es " + total + "$");
                 }
                 else
