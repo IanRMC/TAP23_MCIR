@@ -1,0 +1,12 @@
+C:\Users\Redia\Documents\VS_codigos\EJ23_TAP-unidad1\EJ23_TAP-unidad1\unidad1\Calculadora\Calculadora\bin\Debug\GUI.exe.config
+C:\Users\Redia\Documents\VS_codigos\EJ23_TAP-unidad1\EJ23_TAP-unidad1\unidad1\Calculadora\Calculadora\bin\Debug\GUI.exe
+C:\Users\Redia\Documents\VS_codigos\EJ23_TAP-unidad1\EJ23_TAP-unidad1\unidad1\Calculadora\Calculadora\bin\Debug\GUI.pdb
+C:\Users\Redia\Documents\VS_codigos\EJ23_TAP-unidad1\EJ23_TAP-unidad1\unidad1\Calculadora\Calculadora\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Redia\Documents\VS_codigos\EJ23_TAP-unidad1\EJ23_TAP-unidad1\unidad1\Calculadora\Calculadora\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Redia\Documents\VS_codigos\EJ23_TAP-unidad1\EJ23_TAP-unidad1\unidad1\Calculadora\Calculadora\obj\Debug\GUI.FrmLugares.resources
+C:\Users\Redia\Documents\VS_codigos\EJ23_TAP-unidad1\EJ23_TAP-unidad1\unidad1\Calculadora\Calculadora\obj\Debug\GUI.InputDialog.resources
+C:\Users\Redia\Documents\VS_codigos\EJ23_TAP-unidad1\EJ23_TAP-unidad1\unidad1\Calculadora\Calculadora\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Redia\Documents\VS_codigos\EJ23_TAP-unidad1\EJ23_TAP-unidad1\unidad1\Calculadora\Calculadora\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Redia\Documents\VS_codigos\EJ23_TAP-unidad1\EJ23_TAP-unidad1\unidad1\Calculadora\Calculadora\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Redia\Documents\VS_codigos\EJ23_TAP-unidad1\EJ23_TAP-unidad1\unidad1\Calculadora\Calculadora\obj\Debug\GUI.exe
+C:\Users\Redia\Documents\VS_codigos\EJ23_TAP-unidad1\EJ23_TAP-unidad1\unidad1\Calculadora\Calculadora\obj\Debug\GUI.pdb
