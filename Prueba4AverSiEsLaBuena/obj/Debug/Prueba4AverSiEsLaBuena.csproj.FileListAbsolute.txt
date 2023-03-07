@@ -1,0 +1,30 @@
+D:\Visual Studio Things\Prueba4AverSiEsLaBuena\Prueba4AverSiEsLaBuena\bin\Debug\Prueba4AverSiEsLaBuena.exe.config
+D:\Visual Studio Things\Prueba4AverSiEsLaBuena\Prueba4AverSiEsLaBuena\bin\Debug\Prueba4AverSiEsLaBuena.exe
+D:\Visual Studio Things\Prueba4AverSiEsLaBuena\Prueba4AverSiEsLaBuena\bin\Debug\Prueba4AverSiEsLaBuena.pdb
+D:\Visual Studio Things\Prueba4AverSiEsLaBuena\Prueba4AverSiEsLaBuena\bin\Debug\ControlesEjercicio.dll
+D:\Visual Studio Things\Prueba4AverSiEsLaBuena\Prueba4AverSiEsLaBuena\bin\Debug\ControlesEjercicio.pdb
+D:\Visual Studio Things\Prueba4AverSiEsLaBuena\Prueba4AverSiEsLaBuena\obj\Debug\Prueba4AverSiEsLaBuena.csproj.AssemblyReference.cache
+D:\Visual Studio Things\Prueba4AverSiEsLaBuena\Prueba4AverSiEsLaBuena\obj\Debug\Prueba4AverSiEsLaBuena.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Things\Prueba4AverSiEsLaBuena\Prueba4AverSiEsLaBuena\obj\Debug\Prueba4AverSiEsLaBuena.Properties.Resources.resources
+D:\Visual Studio Things\Prueba4AverSiEsLaBuena\Prueba4AverSiEsLaBuena\obj\Debug\Prueba4AverSiEsLaBuena.SelectorDeMes.resources
+D:\Visual Studio Things\Prueba4AverSiEsLaBuena\Prueba4AverSiEsLaBuena\obj\Debug\Prueba4AverSiEsLaBuena.csproj.GenerateResource.cache
+D:\Visual Studio Things\Prueba4AverSiEsLaBuena\Prueba4AverSiEsLaBuena\obj\Debug\Prueba4AverSiEsLaBuena.csproj.CoreCompileInputs.cache
+D:\Visual Studio Things\Prueba4AverSiEsLaBuena\Prueba4AverSiEsLaBuena\obj\Debug\Prueba4AverSiEsLaBuena.csproj.CopyComplete
+D:\Visual Studio Things\Prueba4AverSiEsLaBuena\Prueba4AverSiEsLaBuena\obj\Debug\Prueba4AverSiEsLaBuena.exe
+D:\Visual Studio Things\Prueba4AverSiEsLaBuena\Prueba4AverSiEsLaBuena\obj\Debug\Prueba4AverSiEsLaBuena.pdb
+D:\Visual Studio Things\Prueba4AverSiEsLaBuena\Prueba4AverSiEsLaBuena\obj\Debug\Prueba4AverSiEsLaBuena.Form1.resources
+C:\Users\Redia\Documents\VS_codigos\Prueba4AverSiEsLaBuena\Prueba4AverSiEsLaBuena\bin\Debug\Prueba4AverSiEsLaBuena.exe.config
+C:\Users\Redia\Documents\VS_codigos\Prueba4AverSiEsLaBuena\Prueba4AverSiEsLaBuena\bin\Debug\Prueba4AverSiEsLaBuena.exe
+C:\Users\Redia\Documents\VS_codigos\Prueba4AverSiEsLaBuena\Prueba4AverSiEsLaBuena\bin\Debug\Prueba4AverSiEsLaBuena.pdb
+C:\Users\Redia\Documents\VS_codigos\Prueba4AverSiEsLaBuena\Prueba4AverSiEsLaBuena\bin\Debug\ControlesEjercicio.dll
+C:\Users\Redia\Documents\VS_codigos\Prueba4AverSiEsLaBuena\Prueba4AverSiEsLaBuena\bin\Debug\ControlesEjercicio.pdb
+C:\Users\Redia\Documents\VS_codigos\Prueba4AverSiEsLaBuena\Prueba4AverSiEsLaBuena\obj\Debug\Prueba4AverSiEsLaBuena.csproj.AssemblyReference.cache
+C:\Users\Redia\Documents\VS_codigos\Prueba4AverSiEsLaBuena\Prueba4AverSiEsLaBuena\obj\Debug\Prueba4AverSiEsLaBuena.csproj.SuggestedBindingRedirects.cache
+C:\Users\Redia\Documents\VS_codigos\Prueba4AverSiEsLaBuena\Prueba4AverSiEsLaBuena\obj\Debug\Prueba4AverSiEsLaBuena.Form1.resources
+C:\Users\Redia\Documents\VS_codigos\Prueba4AverSiEsLaBuena\Prueba4AverSiEsLaBuena\obj\Debug\Prueba4AverSiEsLaBuena.Properties.Resources.resources
+C:\Users\Redia\Documents\VS_codigos\Prueba4AverSiEsLaBuena\Prueba4AverSiEsLaBuena\obj\Debug\Prueba4AverSiEsLaBuena.SelectorDeMes.resources
+C:\Users\Redia\Documents\VS_codigos\Prueba4AverSiEsLaBuena\Prueba4AverSiEsLaBuena\obj\Debug\Prueba4AverSiEsLaBuena.csproj.GenerateResource.cache
+C:\Users\Redia\Documents\VS_codigos\Prueba4AverSiEsLaBuena\Prueba4AverSiEsLaBuena\obj\Debug\Prueba4AverSiEsLaBuena.csproj.CoreCompileInputs.cache
+C:\Users\Redia\Documents\VS_codigos\Prueba4AverSiEsLaBuena\Prueba4AverSiEsLaBuena\obj\Debug\Prueba4AverSiEsLaBuena.csproj.CopyComplete
+C:\Users\Redia\Documents\VS_codigos\Prueba4AverSiEsLaBuena\Prueba4AverSiEsLaBuena\obj\Debug\Prueba4AverSiEsLaBuena.exe
+C:\Users\Redia\Documents\VS_codigos\Prueba4AverSiEsLaBuena\Prueba4AverSiEsLaBuena\obj\Debug\Prueba4AverSiEsLaBuena.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio Things\Prueba4AverSiEsLaBuena\ControlesEjercicio\bin\Debug\ControlesEjercicio.dll
+D:\Visual Studio Things\Prueba4AverSiEsLaBuena\ControlesEjercicio\bin\Debug\ControlesEjercicio.pdb
+D:\Visual Studio Things\Prueba4AverSiEsLaBuena\ControlesEjercicio\obj\Debug\ControlesEjercicio.csproj.AssemblyReference.cache
+D:\Visual Studio Things\Prueba4AverSiEsLaBuena\ControlesEjercicio\obj\Debug\ControlesEjercicio.csproj.CoreCompileInputs.cache
+D:\Visual Studio Things\Prueba4AverSiEsLaBuena\ControlesEjercicio\obj\Debug\ControlesEjercicio.dll
+D:\Visual Studio Things\Prueba4AverSiEsLaBuena\ControlesEjercicio\obj\Debug\ControlesEjercicio.pdb
