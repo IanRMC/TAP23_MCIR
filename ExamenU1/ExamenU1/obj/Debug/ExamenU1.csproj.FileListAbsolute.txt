@@ -1,0 +1,13 @@
+C:\Users\Redia\Documents\VS_codigos\ExamenU1\ExamenU1\bin\Debug\ExamenU1.exe.config
+C:\Users\Redia\Documents\VS_codigos\ExamenU1\ExamenU1\bin\Debug\ExamenU1.exe
+C:\Users\Redia\Documents\VS_codigos\ExamenU1\ExamenU1\bin\Debug\ExamenU1.pdb
+C:\Users\Redia\Documents\VS_codigos\ExamenU1\ExamenU1\obj\Debug\ExamenU1.csproj.AssemblyReference.cache
+C:\Users\Redia\Documents\VS_codigos\ExamenU1\ExamenU1\obj\Debug\ExamenU1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Redia\Documents\VS_codigos\ExamenU1\ExamenU1\obj\Debug\ExamenU1.Inicio.resources
+C:\Users\Redia\Documents\VS_codigos\ExamenU1\ExamenU1\obj\Debug\ExamenU1.Properties.Resources.resources
+C:\Users\Redia\Documents\VS_codigos\ExamenU1\ExamenU1\obj\Debug\ExamenU1.Registro.resources
+C:\Users\Redia\Documents\VS_codigos\ExamenU1\ExamenU1\obj\Debug\ExamenU1.Venta.resources
+C:\Users\Redia\Documents\VS_codigos\ExamenU1\ExamenU1\obj\Debug\ExamenU1.csproj.GenerateResource.cache
+C:\Users\Redia\Documents\VS_codigos\ExamenU1\ExamenU1\obj\Debug\ExamenU1.csproj.CoreCompileInputs.cache
+C:\Users\Redia\Documents\VS_codigos\ExamenU1\ExamenU1\obj\Debug\ExamenU1.exe
+C:\Users\Redia\Documents\VS_codigos\ExamenU1\ExamenU1\obj\Debug\ExamenU1.pdb
