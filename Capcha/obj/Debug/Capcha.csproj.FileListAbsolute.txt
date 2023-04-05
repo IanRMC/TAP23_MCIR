@@ -1,0 +1,14 @@
+C:\Users\Redia\Documents\VS_codigos\Capcha\Capcha\bin\Debug\Capcha.exe.config
+C:\Users\Redia\Documents\VS_codigos\Capcha\Capcha\bin\Debug\Capcha.exe
+C:\Users\Redia\Documents\VS_codigos\Capcha\Capcha\bin\Debug\Capcha.pdb
+C:\Users\Redia\Documents\VS_codigos\Capcha\Capcha\bin\Debug\Captcha.dll
+C:\Users\Redia\Documents\VS_codigos\Capcha\Capcha\bin\Debug\Captcha.pdb
+C:\Users\Redia\Documents\VS_codigos\Capcha\Capcha\obj\Debug\Capcha.csproj.AssemblyReference.cache
+C:\Users\Redia\Documents\VS_codigos\Capcha\Capcha\obj\Debug\Capcha.csproj.SuggestedBindingRedirects.cache
+C:\Users\Redia\Documents\VS_codigos\Capcha\Capcha\obj\Debug\Capcha.Properties.Resources.resources
+C:\Users\Redia\Documents\VS_codigos\Capcha\Capcha\obj\Debug\Capcha.csproj.GenerateResource.cache
+C:\Users\Redia\Documents\VS_codigos\Capcha\Capcha\obj\Debug\Capcha.csproj.CoreCompileInputs.cache
+C:\Users\Redia\Documents\VS_codigos\Capcha\Capcha\obj\Debug\Capcha.csproj.CopyComplete
+C:\Users\Redia\Documents\VS_codigos\Capcha\Capcha\obj\Debug\Capcha.exe
+C:\Users\Redia\Documents\VS_codigos\Capcha\Capcha\obj\Debug\Capcha.pdb
+C:\Users\Redia\Documents\VS_codigos\Capcha\Capcha\obj\Debug\Capcha.Form1.resources

@@ -1,0 +1,9 @@
+C:\Users\Redia\Documents\VS_codigos\Capcha\Captcha\bin\Debug\Captcha.dll
+C:\Users\Redia\Documents\VS_codigos\Capcha\Captcha\bin\Debug\Captcha.pdb
+C:\Users\Redia\Documents\VS_codigos\Capcha\Captcha\obj\Debug\Captcha.csproj.AssemblyReference.cache
+C:\Users\Redia\Documents\VS_codigos\Capcha\Captcha\obj\Debug\Captcha.Captcha.resources
+C:\Users\Redia\Documents\VS_codigos\Capcha\Captcha\obj\Debug\Captcha.csproj.GenerateResource.cache
+C:\Users\Redia\Documents\VS_codigos\Capcha\Captcha\obj\Debug\Captcha.csproj.CoreCompileInputs.cache
+C:\Users\Redia\Documents\VS_codigos\Capcha\Captcha\obj\Debug\Captcha.dll
+C:\Users\Redia\Documents\VS_codigos\Capcha\Captcha\obj\Debug\Captcha.pdb
+C:\Users\Redia\Documents\VS_codigos\Capcha\Captcha\obj\Debug\Captcha.Properties.Resources.resources
