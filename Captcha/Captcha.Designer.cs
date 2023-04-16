@@ -70,6 +70,7 @@
             this.btnAbajo8 = new System.Windows.Forms.Button();
             this.btnAbajo9 = new System.Windows.Forms.Button();
             this.btnAbajo10 = new System.Windows.Forms.Button();
+            this.panel1 = new System.Windows.Forms.Panel();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -90,12 +91,13 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox18)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox19)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox20)).BeginInit();
+            this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // pictureBox1
             // 
             this.pictureBox1.Image = global::Captcha.Properties.Resources.space_station;
-            this.pictureBox1.Location = new System.Drawing.Point(783, 12);
+            this.pictureBox1.Location = new System.Drawing.Point(729, 12);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(68, 70);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -115,7 +117,7 @@
             // pictureBox3
             // 
             this.pictureBox3.Image = global::Captcha.Properties.Resources.mars;
-            this.pictureBox3.Location = new System.Drawing.Point(191, 12);
+            this.pictureBox3.Location = new System.Drawing.Point(185, 12);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(68, 70);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -125,7 +127,7 @@
             // pictureBox4
             // 
             this.pictureBox4.Image = global::Captcha.Properties.Resources.mars_landing;
-            this.pictureBox4.Location = new System.Drawing.Point(265, 12);
+            this.pictureBox4.Location = new System.Drawing.Point(253, 12);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(68, 70);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -135,7 +137,7 @@
             // pictureBox5
             // 
             this.pictureBox5.Image = global::Captcha.Properties.Resources.moon;
-            this.pictureBox5.Location = new System.Drawing.Point(339, 12);
+            this.pictureBox5.Location = new System.Drawing.Point(321, 12);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(68, 70);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -145,7 +147,7 @@
             // pictureBox6
             // 
             this.pictureBox6.Image = global::Captcha.Properties.Resources.rocket_boosters;
-            this.pictureBox6.Location = new System.Drawing.Point(413, 12);
+            this.pictureBox6.Location = new System.Drawing.Point(389, 12);
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(68, 70);
             this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -155,7 +157,7 @@
             // pictureBox7
             // 
             this.pictureBox7.Image = global::Captcha.Properties.Resources.rocket_flying;
-            this.pictureBox7.Location = new System.Drawing.Point(487, 12);
+            this.pictureBox7.Location = new System.Drawing.Point(457, 12);
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(68, 70);
             this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -165,7 +167,7 @@
             // pictureBox8
             // 
             this.pictureBox8.Image = global::Captcha.Properties.Resources.rocket_heavy;
-            this.pictureBox8.Location = new System.Drawing.Point(561, 12);
+            this.pictureBox8.Location = new System.Drawing.Point(525, 12);
             this.pictureBox8.Name = "pictureBox8";
             this.pictureBox8.Size = new System.Drawing.Size(68, 70);
             this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -175,7 +177,7 @@
             // pictureBox9
             // 
             this.pictureBox9.Image = global::Captcha.Properties.Resources.rover;
-            this.pictureBox9.Location = new System.Drawing.Point(635, 12);
+            this.pictureBox9.Location = new System.Drawing.Point(593, 12);
             this.pictureBox9.Name = "pictureBox9";
             this.pictureBox9.Size = new System.Drawing.Size(68, 70);
             this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -185,7 +187,7 @@
             // pictureBox10
             // 
             this.pictureBox10.Image = global::Captcha.Properties.Resources.satellite;
-            this.pictureBox10.Location = new System.Drawing.Point(709, 12);
+            this.pictureBox10.Location = new System.Drawing.Point(661, 12);
             this.pictureBox10.Name = "pictureBox10";
             this.pictureBox10.Size = new System.Drawing.Size(68, 70);
             this.pictureBox10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -194,7 +196,7 @@
             // 
             // btnGenerar
             // 
-            this.btnGenerar.Location = new System.Drawing.Point(26, 47);
+            this.btnGenerar.Location = new System.Drawing.Point(18, 12);
             this.btnGenerar.Name = "btnGenerar";
             this.btnGenerar.Size = new System.Drawing.Size(75, 48);
             this.btnGenerar.TabIndex = 10;
@@ -204,7 +206,7 @@
             // 
             // btnValidar
             // 
-            this.btnValidar.Location = new System.Drawing.Point(26, 123);
+            this.btnValidar.Location = new System.Drawing.Point(18, 88);
             this.btnValidar.Name = "btnValidar";
             this.btnValidar.Size = new System.Drawing.Size(75, 41);
             this.btnValidar.TabIndex = 11;
@@ -217,7 +219,7 @@
             this.btnArriba1.AccessibleRole = System.Windows.Forms.AccessibleRole.Application;
             this.btnArriba1.BackgroundImage = global::Captcha.Properties.Resources.Arriba;
             this.btnArriba1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnArriba1.Location = new System.Drawing.Point(783, 101);
+            this.btnArriba1.Location = new System.Drawing.Point(729, 101);
             this.btnArriba1.Name = "btnArriba1";
             this.btnArriba1.Size = new System.Drawing.Size(68, 23);
             this.btnArriba1.TabIndex = 12;
@@ -228,7 +230,7 @@
             // 
             this.btnAbajo1.BackgroundImage = global::Captcha.Properties.Resources.Abajo;
             this.btnAbajo1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnAbajo1.Location = new System.Drawing.Point(783, 205);
+            this.btnAbajo1.Location = new System.Drawing.Point(729, 205);
             this.btnAbajo1.Name = "btnAbajo1";
             this.btnAbajo1.Size = new System.Drawing.Size(68, 23);
             this.btnAbajo1.TabIndex = 32;
@@ -238,7 +240,7 @@
             // pictureBox11
             // 
             this.pictureBox11.Image = global::Captcha.Properties.Resources.earth;
-            this.pictureBox11.Location = new System.Drawing.Point(709, 129);
+            this.pictureBox11.Location = new System.Drawing.Point(661, 129);
             this.pictureBox11.Name = "pictureBox11";
             this.pictureBox11.Size = new System.Drawing.Size(68, 70);
             this.pictureBox11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -248,7 +250,7 @@
             // pictureBox12
             // 
             this.pictureBox12.Image = global::Captcha.Properties.Resources.earth;
-            this.pictureBox12.Location = new System.Drawing.Point(635, 129);
+            this.pictureBox12.Location = new System.Drawing.Point(593, 129);
             this.pictureBox12.Name = "pictureBox12";
             this.pictureBox12.Size = new System.Drawing.Size(68, 70);
             this.pictureBox12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -258,7 +260,7 @@
             // pictureBox13
             // 
             this.pictureBox13.Image = global::Captcha.Properties.Resources.earth;
-            this.pictureBox13.Location = new System.Drawing.Point(561, 129);
+            this.pictureBox13.Location = new System.Drawing.Point(525, 129);
             this.pictureBox13.Name = "pictureBox13";
             this.pictureBox13.Size = new System.Drawing.Size(68, 70);
             this.pictureBox13.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -268,7 +270,7 @@
             // pictureBox14
             // 
             this.pictureBox14.Image = global::Captcha.Properties.Resources.earth;
-            this.pictureBox14.Location = new System.Drawing.Point(487, 129);
+            this.pictureBox14.Location = new System.Drawing.Point(457, 129);
             this.pictureBox14.Name = "pictureBox14";
             this.pictureBox14.Size = new System.Drawing.Size(68, 70);
             this.pictureBox14.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -278,7 +280,7 @@
             // pictureBox15
             // 
             this.pictureBox15.Image = global::Captcha.Properties.Resources.earth;
-            this.pictureBox15.Location = new System.Drawing.Point(413, 129);
+            this.pictureBox15.Location = new System.Drawing.Point(389, 129);
             this.pictureBox15.Name = "pictureBox15";
             this.pictureBox15.Size = new System.Drawing.Size(68, 70);
             this.pictureBox15.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -288,7 +290,7 @@
             // pictureBox16
             // 
             this.pictureBox16.Image = global::Captcha.Properties.Resources.earth;
-            this.pictureBox16.Location = new System.Drawing.Point(339, 129);
+            this.pictureBox16.Location = new System.Drawing.Point(321, 129);
             this.pictureBox16.Name = "pictureBox16";
             this.pictureBox16.Size = new System.Drawing.Size(68, 70);
             this.pictureBox16.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -298,7 +300,7 @@
             // pictureBox17
             // 
             this.pictureBox17.Image = global::Captcha.Properties.Resources.earth;
-            this.pictureBox17.Location = new System.Drawing.Point(265, 129);
+            this.pictureBox17.Location = new System.Drawing.Point(253, 129);
             this.pictureBox17.Name = "pictureBox17";
             this.pictureBox17.Size = new System.Drawing.Size(68, 70);
             this.pictureBox17.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -308,7 +310,7 @@
             // pictureBox18
             // 
             this.pictureBox18.Image = global::Captcha.Properties.Resources.earth;
-            this.pictureBox18.Location = new System.Drawing.Point(191, 129);
+            this.pictureBox18.Location = new System.Drawing.Point(185, 129);
             this.pictureBox18.Name = "pictureBox18";
             this.pictureBox18.Size = new System.Drawing.Size(68, 70);
             this.pictureBox18.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -328,7 +330,7 @@
             // pictureBox20
             // 
             this.pictureBox20.Image = global::Captcha.Properties.Resources.earth;
-            this.pictureBox20.Location = new System.Drawing.Point(783, 129);
+            this.pictureBox20.Location = new System.Drawing.Point(729, 129);
             this.pictureBox20.Name = "pictureBox20";
             this.pictureBox20.Size = new System.Drawing.Size(68, 70);
             this.pictureBox20.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -340,7 +342,7 @@
             this.btnArriba2.AccessibleRole = System.Windows.Forms.AccessibleRole.Application;
             this.btnArriba2.BackgroundImage = global::Captcha.Properties.Resources.Arriba;
             this.btnArriba2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnArriba2.Location = new System.Drawing.Point(709, 101);
+            this.btnArriba2.Location = new System.Drawing.Point(661, 101);
             this.btnArriba2.Name = "btnArriba2";
             this.btnArriba2.Size = new System.Drawing.Size(68, 23);
             this.btnArriba2.TabIndex = 42;
@@ -352,7 +354,7 @@
             this.btnArriba4.AccessibleRole = System.Windows.Forms.AccessibleRole.Application;
             this.btnArriba4.BackgroundImage = global::Captcha.Properties.Resources.Arriba;
             this.btnArriba4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnArriba4.Location = new System.Drawing.Point(561, 100);
+            this.btnArriba4.Location = new System.Drawing.Point(525, 100);
             this.btnArriba4.Name = "btnArriba4";
             this.btnArriba4.Size = new System.Drawing.Size(68, 23);
             this.btnArriba4.TabIndex = 43;
@@ -364,7 +366,7 @@
             this.btnArriba3.AccessibleRole = System.Windows.Forms.AccessibleRole.Application;
             this.btnArriba3.BackgroundImage = global::Captcha.Properties.Resources.Arriba;
             this.btnArriba3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnArriba3.Location = new System.Drawing.Point(635, 101);
+            this.btnArriba3.Location = new System.Drawing.Point(593, 101);
             this.btnArriba3.Name = "btnArriba3";
             this.btnArriba3.Size = new System.Drawing.Size(68, 23);
             this.btnArriba3.TabIndex = 44;
@@ -376,7 +378,7 @@
             this.btnArriba5.AccessibleRole = System.Windows.Forms.AccessibleRole.Application;
             this.btnArriba5.BackgroundImage = global::Captcha.Properties.Resources.Arriba;
             this.btnArriba5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnArriba5.Location = new System.Drawing.Point(487, 101);
+            this.btnArriba5.Location = new System.Drawing.Point(457, 101);
             this.btnArriba5.Name = "btnArriba5";
             this.btnArriba5.Size = new System.Drawing.Size(68, 23);
             this.btnArriba5.TabIndex = 45;
@@ -400,7 +402,7 @@
             this.btnArriba9.AccessibleRole = System.Windows.Forms.AccessibleRole.Application;
             this.btnArriba9.BackgroundImage = global::Captcha.Properties.Resources.Arriba;
             this.btnArriba9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnArriba9.Location = new System.Drawing.Point(191, 101);
+            this.btnArriba9.Location = new System.Drawing.Point(185, 101);
             this.btnArriba9.Name = "btnArriba9";
             this.btnArriba9.Size = new System.Drawing.Size(68, 23);
             this.btnArriba9.TabIndex = 47;
@@ -412,7 +414,7 @@
             this.btnArriba8.AccessibleRole = System.Windows.Forms.AccessibleRole.Application;
             this.btnArriba8.BackgroundImage = global::Captcha.Properties.Resources.Arriba;
             this.btnArriba8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnArriba8.Location = new System.Drawing.Point(265, 100);
+            this.btnArriba8.Location = new System.Drawing.Point(253, 100);
             this.btnArriba8.Name = "btnArriba8";
             this.btnArriba8.Size = new System.Drawing.Size(68, 23);
             this.btnArriba8.TabIndex = 48;
@@ -424,7 +426,7 @@
             this.btnArriba7.AccessibleRole = System.Windows.Forms.AccessibleRole.Application;
             this.btnArriba7.BackgroundImage = global::Captcha.Properties.Resources.Arriba;
             this.btnArriba7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnArriba7.Location = new System.Drawing.Point(339, 100);
+            this.btnArriba7.Location = new System.Drawing.Point(321, 100);
             this.btnArriba7.Name = "btnArriba7";
             this.btnArriba7.Size = new System.Drawing.Size(68, 23);
             this.btnArriba7.TabIndex = 49;
@@ -436,7 +438,7 @@
             this.btnArriba6.AccessibleRole = System.Windows.Forms.AccessibleRole.Application;
             this.btnArriba6.BackgroundImage = global::Captcha.Properties.Resources.Arriba;
             this.btnArriba6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnArriba6.Location = new System.Drawing.Point(413, 101);
+            this.btnArriba6.Location = new System.Drawing.Point(389, 101);
             this.btnArriba6.Name = "btnArriba6";
             this.btnArriba6.Size = new System.Drawing.Size(68, 23);
             this.btnArriba6.TabIndex = 50;
@@ -447,7 +449,7 @@
             // 
             this.btnAbajo2.BackgroundImage = global::Captcha.Properties.Resources.Abajo;
             this.btnAbajo2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnAbajo2.Location = new System.Drawing.Point(709, 205);
+            this.btnAbajo2.Location = new System.Drawing.Point(661, 205);
             this.btnAbajo2.Name = "btnAbajo2";
             this.btnAbajo2.Size = new System.Drawing.Size(68, 23);
             this.btnAbajo2.TabIndex = 51;
@@ -458,7 +460,7 @@
             // 
             this.btnAbajo3.BackgroundImage = global::Captcha.Properties.Resources.Abajo;
             this.btnAbajo3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnAbajo3.Location = new System.Drawing.Point(635, 205);
+            this.btnAbajo3.Location = new System.Drawing.Point(593, 205);
             this.btnAbajo3.Name = "btnAbajo3";
             this.btnAbajo3.Size = new System.Drawing.Size(68, 23);
             this.btnAbajo3.TabIndex = 52;
@@ -469,7 +471,7 @@
             // 
             this.btnAbajo4.BackgroundImage = global::Captcha.Properties.Resources.Abajo;
             this.btnAbajo4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnAbajo4.Location = new System.Drawing.Point(561, 205);
+            this.btnAbajo4.Location = new System.Drawing.Point(525, 205);
             this.btnAbajo4.Name = "btnAbajo4";
             this.btnAbajo4.Size = new System.Drawing.Size(68, 23);
             this.btnAbajo4.TabIndex = 53;
@@ -480,7 +482,7 @@
             // 
             this.btnAbajo5.BackgroundImage = global::Captcha.Properties.Resources.Abajo;
             this.btnAbajo5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnAbajo5.Location = new System.Drawing.Point(487, 205);
+            this.btnAbajo5.Location = new System.Drawing.Point(457, 205);
             this.btnAbajo5.Name = "btnAbajo5";
             this.btnAbajo5.Size = new System.Drawing.Size(68, 23);
             this.btnAbajo5.TabIndex = 54;
@@ -491,7 +493,7 @@
             // 
             this.btnAbajo6.BackgroundImage = global::Captcha.Properties.Resources.Abajo;
             this.btnAbajo6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnAbajo6.Location = new System.Drawing.Point(413, 205);
+            this.btnAbajo6.Location = new System.Drawing.Point(389, 205);
             this.btnAbajo6.Name = "btnAbajo6";
             this.btnAbajo6.Size = new System.Drawing.Size(68, 23);
             this.btnAbajo6.TabIndex = 55;
@@ -502,7 +504,7 @@
             // 
             this.btnAbajo7.BackgroundImage = global::Captcha.Properties.Resources.Abajo;
             this.btnAbajo7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnAbajo7.Location = new System.Drawing.Point(339, 205);
+            this.btnAbajo7.Location = new System.Drawing.Point(321, 205);
             this.btnAbajo7.Name = "btnAbajo7";
             this.btnAbajo7.Size = new System.Drawing.Size(68, 23);
             this.btnAbajo7.TabIndex = 56;
@@ -513,7 +515,7 @@
             // 
             this.btnAbajo8.BackgroundImage = global::Captcha.Properties.Resources.Abajo;
             this.btnAbajo8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnAbajo8.Location = new System.Drawing.Point(265, 205);
+            this.btnAbajo8.Location = new System.Drawing.Point(253, 205);
             this.btnAbajo8.Name = "btnAbajo8";
             this.btnAbajo8.Size = new System.Drawing.Size(68, 23);
             this.btnAbajo8.TabIndex = 57;
@@ -524,7 +526,7 @@
             // 
             this.btnAbajo9.BackgroundImage = global::Captcha.Properties.Resources.Abajo;
             this.btnAbajo9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.btnAbajo9.Location = new System.Drawing.Point(191, 205);
+            this.btnAbajo9.Location = new System.Drawing.Point(185, 205);
             this.btnAbajo9.Name = "btnAbajo9";
             this.btnAbajo9.Size = new System.Drawing.Size(68, 23);
             this.btnAbajo9.TabIndex = 58;
@@ -542,10 +544,20 @@
             this.btnAbajo10.UseVisualStyleBackColor = true;
             this.btnAbajo10.Click += new System.EventHandler(this.btnAbajo10_Click);
             // 
+            // panel1
+            // 
+            this.panel1.Controls.Add(this.btnGenerar);
+            this.panel1.Controls.Add(this.btnValidar);
+            this.panel1.Location = new System.Drawing.Point(3, 45);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(114, 144);
+            this.panel1.TabIndex = 60;
+            // 
             // Captcha
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.panel1);
             this.Controls.Add(this.btnAbajo10);
             this.Controls.Add(this.btnAbajo9);
             this.Controls.Add(this.btnAbajo8);
@@ -576,8 +588,6 @@
             this.Controls.Add(this.pictureBox19);
             this.Controls.Add(this.pictureBox20);
             this.Controls.Add(this.btnArriba1);
-            this.Controls.Add(this.btnValidar);
-            this.Controls.Add(this.btnGenerar);
             this.Controls.Add(this.pictureBox10);
             this.Controls.Add(this.pictureBox9);
             this.Controls.Add(this.pictureBox8);
@@ -589,7 +599,7 @@
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);
             this.Name = "Captcha";
-            this.Size = new System.Drawing.Size(874, 257);
+            this.Size = new System.Drawing.Size(804, 243);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
@@ -610,6 +620,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox18)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox19)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox20)).EndInit();
+            this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -657,5 +668,6 @@
         private System.Windows.Forms.Button btnAbajo8;
         private System.Windows.Forms.Button btnAbajo9;
         private System.Windows.Forms.Button btnAbajo10;
+        private System.Windows.Forms.Panel panel1;
     }
 }

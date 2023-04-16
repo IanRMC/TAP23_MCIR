@@ -33,10 +33,12 @@
             // 
             // captcha1
             // 
-            this.captcha1.Location = new System.Drawing.Point(13, 33);
+            this.captcha1.Dificultad = 10;
+            this.captcha1.Location = new System.Drawing.Point(2, 33);
             this.captcha1.Name = "captcha1";
-            this.captcha1.Size = new System.Drawing.Size(874, 257);
+            this.captcha1.Size = new System.Drawing.Size(834, 257);
             this.captcha1.TabIndex = 0;
+            this.captcha1.Validado += new System.EventHandler<Captcha.CaptchaEvents>(this.captcha1_Validado);
             // 
             // Form1
             // 

@@ -24,7 +24,7 @@ namespace Capcha
 
         private void captcha1_Validado(object sender, Captcha.CaptchaEvents e)
         {
-            MessageBox.Show("Correcto? " + e.respuesta);
+            MessageBox.Show("Correcto: " + e.respuesta);
         }
     }
 }

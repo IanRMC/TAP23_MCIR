@@ -1,13 +1,7 @@
 ﻿using Captcha.Properties;
 using System;
-using System.Collections.Generic;
 using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Security.Cryptography;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Captcha
@@ -17,7 +11,7 @@ namespace Captcha
         /// <summary>
         /// Regresa el resultado del capcha 
         /// </summary>
-        [Description("Regresa el resultado del capcha "), Category(), ReadOnly(true)]
+        [Description("Regresa el resultado del capcha ")]
         public event EventHandler<CaptchaEvents> Validado;
 
         private Image[] Images = {Resources.earth, Resources.mars, Resources.mars_landing, Resources.moon, Resources.rocket_boosters, Resources.rocket_flying, Resources.rocket_heavy, Resources.rover, Resources.satellite, Resources.space_station};
@@ -48,7 +42,7 @@ namespace Captcha
         /// <summary>
         /// Deterrmina la cantidad de imagenes que aparecen 
         /// </summary>
-        [Description("Deterrmina la cantidad de imagenes que aparecen "), Category(), ReadOnly(true)]
+        [Description("Deterrmina la cantidad de imagenes que aparecen ")]
         public int Dificultad
         {
             get { return dificultad; }
@@ -74,7 +68,7 @@ namespace Captcha
                 capimg[i].Visible = false;
             }
 
-            this.Width = (127 + (76*dificultad));
+            this.Width = (panel1.Width + (cap[0].Width*dificultad) + 40);
 
             for(int i = 0;i < dificultad; i++)
             {
